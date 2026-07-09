@@ -38,3 +38,11 @@ npm run dev
 
 ## 🔗 Backend
 https://github.com/mohamedkacem0/taskmanager-backend
+
+## 📸 Capturas
+
+### Login
+![Login](./screenshots/login.png)
+
+### Dashboard
+![Dashboard](./screenshots/proyectoYtareas.png)
