@@ -1,11 +1,11 @@
-# Task Manager - Frontend
+# TaskFlow - Frontend
 
 Interfaz para gestionar tareas y proyectos, conectada a una API REST propia.
 
 ## Demo en vivo
 https://taskmanager-frontend-pearl.vercel.app
 
-## 🛠️ Tecnologías
+## Tecnologías
 - React + Vite
 - Tailwind CSS
 - React Router
@@ -36,10 +36,10 @@ bash
 npm run dev
 
 
-## 🔗 Backend
+## Backend
 https://github.com/mohamedkacem0/taskmanager-backend
 
-## 📸 Capturas
+## Capturas
 
 ### Login
 ![Login](./screenshots/login.png)
